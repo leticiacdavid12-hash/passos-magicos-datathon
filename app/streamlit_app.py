@@ -112,7 +112,7 @@ if 'FASE_NUM' not in df.columns:
 
 with st.sidebar:
     st.image(
-        "https://passosmagicos.org.br/wp-content/uploads/2020/07/logo-passos-magicos.png",
+        "https://passosmagicos.org.br/wp-content/uploads/2020/10/Passos-magicos-icon-cor.png",
         width=200
     )
     st.markdown("---")
