@@ -5,18 +5,31 @@ Projeto de análise de dados e predição de risco de defasagem educacional para
 ## Estrutura do Projeto
 
 passos-magicos-datathon/
+
 ├── data/
+
 │   ├── raw/                        # Dataset original (não commitado)
+
 │   └── processed/                  # Parquets limpos
+
 ├── notebooks/
+
 │   ├── 01_eda.ipynb                # Limpeza e EDA
+
 │   ├── 02_business_questions.ipynb # Perguntas de negócio
+
 │   └── 03_model.ipynb              # Modelo preditivo
+
 ├── app/
+
 │   └── streamlit_app.py            # Aplicação Streamlit
+
 ├── models/                         # Artefatos do modelo (.pkl)
+
 ├── reports/                        # Gráficos exportados
+
 ├── requirements.txt
+
 └── README.md
 
 ## Como Executar Localmente
