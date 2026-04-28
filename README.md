@@ -41,8 +41,7 @@ streamlit run app/streamlit_app.py
 
 ## Deploy
 
-Acesse a aplicação em produção:
-[link]
+Acesse a aplicação em produção: https://datathon-postech.streamlit.app/
 
 ## Modelo Preditivo
 
